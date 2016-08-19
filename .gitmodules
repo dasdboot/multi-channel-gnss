@@ -4,3 +4,6 @@
 [submodule "Si5351Arduino"]
 	path = Si5351Arduino
 	url = https://github.com/etherkit/Si5351Arduino.git
+[submodule "RTKLIB"]
+	path = RTKLIB
+	url = https://github.com/tomojitakasu/RTKLIB.git
