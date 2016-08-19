@@ -1,3 +1,6 @@
 [submodule "gnss-sdr"]
 	path = gnss-sdr
 	url = https://github.com/gnss-sdr/gnss-sdr.git
+[submodule "Si5351Arduino"]
+	path = Si5351Arduino
+	url = https://github.com/etherkit/Si5351Arduino.git
