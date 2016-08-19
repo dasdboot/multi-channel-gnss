@@ -1,2 +1,2 @@
-# limesdr_gps
-Advanced GPS based on LimeSDR board by Lime Microsystems
+# multichannel-gnss
+Advanced navigation GPS based on GNSS-SDR and coherent multichannel SDR receivers
