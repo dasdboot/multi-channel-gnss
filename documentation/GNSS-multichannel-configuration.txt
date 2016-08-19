@@ -1,0 +1,4 @@
+The builds located in ./gnss-sdr-binaries include generic non SIMD CPU dependent binaries with Osmosdr_Signal_Source support
+Configuration files for Osmosdr_Signal_Source single, and multiple channels front end support are located in ./gnss-sdr-config
+The hardware implementation of the coherent SDR RF GNSS front end based on hetherkit Si5351 multiple output clock source is shown in ./documentation/coherent-rtl-sdr.jpg
+The sketches for the Arduino board to drive the etherkit si5351 are located in ./Si5351Arduino
